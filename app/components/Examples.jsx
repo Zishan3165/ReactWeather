@@ -16,7 +16,7 @@ var Examples =  (props)=> {
 
      </ol>
       </div>
-    )
+    );
   }
 ;
 
